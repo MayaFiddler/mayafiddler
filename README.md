@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**MayaFiddler/mayafiddler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Maya Fiddler (Mariann Hegedus)
 
-Here are some ideas to get you started:
+I'm a self-taught Frontend Developer with a non-traditional background. After studying linguistics and earning a teaching qualification, I spent a decade raising my children and working in customer service. Now, I combine that deep empathy and human-centered approach to build clean, accessible user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm working on
+- **Focus:** HTML, CSS, JavaScript, and responsive design.
+- **Currently Learning:** React (to build more dynamic UIs) and exploring the Python/Django ecosystem.
+- **Goal:** To create intuitive, low-cognitive-load digital experiences, particularly in the EdTech space.
+
+### 📬 Let's Connect
+- **Portfolio:** mayafiddler.space
+- **LinkedIn:** www.linkedin.com/in/mayafiddler
