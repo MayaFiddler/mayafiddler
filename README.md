@@ -12,3 +12,4 @@ I'm a self-taught Frontend Developer with a non-traditional background. After st
 ### 📬 Let's Connect
 - **Portfolio:** https://mayafiddler.space
 - **LinkedIn:** www.linkedin.com/in/mayafiddler
+- **GitHub Frontend Showcase** https://mayafiddler.github.io/front-end-schowcase/
