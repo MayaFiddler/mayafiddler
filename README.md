@@ -10,5 +10,5 @@ I'm a self-taught Frontend Developer with a non-traditional background. After st
 - **Goal:** To create intuitive, low-cognitive-load digital experiences, particularly in the EdTech space.
 
 ### 📬 Let's Connect
-- **Portfolio:** mayafiddler.space
+- **Portfolio:** https://mayafiddler.space
 - **LinkedIn:** www.linkedin.com/in/mayafiddler
